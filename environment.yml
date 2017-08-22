@@ -1,0 +1,18 @@
+name: far_nlp
+channels:
+- districtdatalabs
+- conda-forge
+- defaults
+- bokeh/channel/dev
+dependencies:
+- python=3
+- numpy
+- pandas
+- scikit-learn 
+- spacy
+- matplotlib
+- seaborn
+- bokeh
+- yellowbrick
+- jupyter
+- jupyter_contrib_nbextensions
